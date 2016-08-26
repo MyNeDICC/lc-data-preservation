@@ -21,9 +21,7 @@ Research Data Preservation Group - lesson ideas
 
     - Migration/normalisation
 
-
-###Persistent IDs
-PIDs...
+    - Persistent Identifiers (PIDs)
 
 
 
