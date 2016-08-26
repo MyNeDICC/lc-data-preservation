@@ -1,5 +1,5 @@
 ---
-title: "Lesson Organization"
+title: "Long-term Access"
 teaching: 10
 exercises: 0
 questions:

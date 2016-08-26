@@ -1,25 +1,23 @@
 ---
-title: "Lesson Design"
-teaching: 10
-exercises: 0
+title: "Storage and Backup"
+teaching: "AGES"
+exercises: "1 000 000"
 questions:
-- "How do we design lessons?"
+- "How much storage do I need?"
+- "What type of file formats will I create?"
+- "Which storage medium is best?"
+- "How will my data be backed up?"
+- "How long will backup take?"
+- "How often will I need to backup my data?"
 objectives:
-- "Describe the reverse instructional design process."
-- "Describe the purpose and implementation of formative assessments."
+- "To prevent data loss"
+- "To enable sharing and reuse of my data over the long-term."
 keypoints:
-- "Lessons are design in four stages: conceptual, summative, formative, and connective."
-training: http://swcarpentry.github.io/instructor-training
+- "STORE AND BACKUP YOUR DATA!"
 ---
 
-This episode describes how we go about designing lessons and why.
-For more information on how we design lessons and why,
-see [the instructor training course][training].
-
-## Reverse Instructional Design
-
-In principle,
-we design lessons in four stages:
+This episode describes how we go about storing and backing-up our data as a function of data preservation.
+see also [The Programming Historian](http://programminghistorian.org/lessons/preserving-your-research-data)
 
 1.  **Conceptual**:
     describe who the lesson is for,

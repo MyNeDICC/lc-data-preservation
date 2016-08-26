@@ -1,5 +1,5 @@
 ---
-title: "Formatting"
+title: "File naming and Formatting"
 teaching: 10
 exercises: 0
 questions:

@@ -1,5 +1,24 @@
-lesson-example
+Research Data Preservation Group - lesson ideas
 ==============
+
+##Discussion
+
+    - 01 Storage and Back-up by Kayleigh
+
+    - 02 Security by Banele
+
+    - 03 Long-term Access by Rose
+
+    - 04 File naming and Formatting by Thabang
+
+    - 05 Metadata (Documenting and Structuring) by by Ednah
+
+    - 06 Migration and normalisation by Kgopelo
+
+    - 07 Persistent Identifiers (PIDs) by Nomvuyelo
+
+
+
 
 This repository shows how to create a lesson using
 the [Software Carpentry lesson template][styles],
