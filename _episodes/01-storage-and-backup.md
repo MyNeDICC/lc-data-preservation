@@ -1,12 +1,17 @@
 ---
 title: "Storage and Backup"
-teaching: 10
-exercises: 0
+teaching: "AGES"
+exercises: "1 000 000"
 questions:
-- "How do we design lessons?"
+- "How much storage do I need?"
+- "What type of file formats will I create?"
+- "Which storage medium is best?"
+- "How will my data be backed up?"
+- "How long will backup take?"
+- "How often will I need to backup my data?"
 objectives:
-- "Describe the reverse instructional design process."
-- "Describe the purpose and implementation of formative assessments."
+- "To prevent data loss"
+- "To enable sharing and reuse of my data over the long-term."
 keypoints:
 - "Lessons are design in four stages: conceptual, summative, formative, and connective."
 training: http://swcarpentry.github.io/instructor-training
