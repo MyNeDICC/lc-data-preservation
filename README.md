@@ -3,19 +3,19 @@ Research Data Preservation Group - lesson ideas
 
 ##Discussion
 
-    - Storage and Back-up by Kayleigh
+    - 01 Storage and Back-up by Kayleigh
 
-    - Security by Banele
+    - 02 Security by Banele
 
-    - Long-term Access by Rose
+    - 03 Long-term Access by Rose
 
-    - File naming and Formatting by Thabang
+    - 04 File naming and Formatting by Thabang
 
-    - Metadata (Documenting and Structuring) - by Ednah
+    - 05 Metadata (Documenting and Structuring) by by Ednah
 
-    - Migration and normalisation - Kgopelo
+    - 06 Migration and normalisation by Kgopelo
 
-    - Persistent Identifiers (PIDs) by Nomvuyelo
+    - 07 Persistent Identifiers (PIDs) by Nomvuyelo
 
 
 
