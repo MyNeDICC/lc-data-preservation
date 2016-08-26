@@ -1,5 +1,10 @@
 lesson-example
 ==============
+Research Data Preservation - group lesson ideas
+
+
+
+
 
 This repository shows how to create a lesson using
 the [Software Carpentry lesson template][styles],
