@@ -13,17 +13,11 @@ objectives:
 - "To prevent data loss"
 - "To enable sharing and reuse of my data over the long-term."
 keypoints:
-- "Lessons are design in four stages: conceptual, summative, formative, and connective."
-training: http://programminghistorian.org/lessons/preserving-your-research-data-training
+- "abcdefg... STORE AND BACKUP YOUR DATA!"
 ---
 
 This episode describes how we go about storing and backing-up our data as a function of data preservation.
-see also [The Programming Historian][training].
-
-## Reverse Instructional Design
-
-In principle,
-we design lessons in four stages:
+see also [The Programming Historian][http://programminghistorian.org/lessons/preserving-your-research-data].
 
 1.  **Conceptual**:
     describe who the lesson is for,
