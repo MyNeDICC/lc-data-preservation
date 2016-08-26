@@ -1,5 +1,5 @@
 ---
-title: "Checking and Previewing"
+title: "Metadata"
 teaching: 5
 exercises: 0
 questions:
