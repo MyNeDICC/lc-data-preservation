@@ -1,6 +1,6 @@
 ---
 title: "Persistent Identifiers"
-teaching: 5
+teaching: 30
 exercises: 0
 questions:
 - "What are Persistent Identifiers?"
@@ -13,7 +13,7 @@ keypoints:
 - "We use a standard set of labels to classify issues and pull requests."
 ---
 
-This episode describes the processes used to maintain our lessons.
+This episode describes everything you need to know about Persistent Identifiers.
 
 ## Persistent Identifiers
 
