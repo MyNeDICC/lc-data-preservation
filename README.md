@@ -1,6 +1,6 @@
-lesson-example
+Research Data Preservation Group - lesson ideas
 ==============
-Research Data Preservation - group lesson ideas
+
 
 
 
