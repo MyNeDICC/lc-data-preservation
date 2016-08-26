@@ -14,7 +14,7 @@ objectives:
 - "To enable sharing and reuse of my data over the long-term."
 keypoints:
 - "Lessons are design in four stages: conceptual, summative, formative, and connective."
-training: http://programminghistorian.org/lessons/preserving-your-research-data-training
+training: http://programminghistorian.org/lessons/preserving-your-research-data -training
 ---
 
 This episode describes how we go about storing and backing-up our data as a function of data preservation.
