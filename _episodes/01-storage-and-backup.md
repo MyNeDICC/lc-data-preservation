@@ -2,7 +2,6 @@
 title: "Storage and Backup"
 teaching: "AGES"
 exercises: "1 000 000"
-
 questions:
 - "How much storage do I need?"
 - "What type of file formats will I create?"
@@ -10,13 +9,11 @@ questions:
 - "How will my data be backed up?"
 - "How long will backup take?"
 - "How often will I need to backup my data?"
-
 objectives:
 - "To prevent data loss"
 - "To enable sharing and reuse of my data over the long-term."
-
 keypoints:
-- "abcdefg... STORE AND BACKUP YOUR DATA!"
+- "STORE AND BACKUP YOUR DATA!"
 ---
 
 This episode describes how we go about storing and backing-up our data as a function of data preservation.
