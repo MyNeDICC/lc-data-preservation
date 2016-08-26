@@ -3,15 +3,23 @@ Research Data Preservation Group - lesson ideas
 
 ##Discussion
 
-Storage
-Back-up
-Security
-Long-term Access
-Formatting
-Documenting (metadata)
-Structuring (metadata)
-File naming
-Migration/normalisation
+    - Storage
+
+    - Back-up
+
+    - Security
+
+    - Long-term Access
+
+    - Formatting
+
+    - Documenting (metadata)
+
+    - Structuring (metadata)
+
+    - File naming
+
+    - Migration/normalisation
 
 
 ###Persistent IDs
