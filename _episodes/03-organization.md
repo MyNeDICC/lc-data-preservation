@@ -1,5 +1,5 @@
 ---
-title: "Long-term Access"
+title: "Long-term-Access"
 teaching: 120
 exercises: 5
 questions:
