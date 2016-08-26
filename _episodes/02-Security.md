@@ -1,19 +1,16 @@
 ---
-title: "GitHub, Markdown, and Jekyll"
+title: "Security"
 teaching: 10
 exercises: 0
 questions:
-- "How are pages published?"
+- "How do you ensure that your data is secured?"
+- "Which measures can be taken to secure data?"
+- What access levels does your security have?"
 objectives:
-- "Explain how GitHub Pages produce web sites from Git repositories."
-- "Explain Jekyll's formatting rules."
+- "To prevent unauthorised access."
+- "Prevent the stealing and altering of data."
 keypoints:
-- "Lessons are stored in Git repositories on GitHub."
-- "Lessons are written in Markdown."
-- "Jekyll translates the files in the gh-pages branch into HTML for viewing."
-- "The site's configuration is stored in _config.yml."
-- "Each page's configuration is stored at the top of that page."
-- "Groups of files are stored in collection directories whose names begin with an underscore."
+-
 ---
 
 This episode describes the tools we use to build and manage lessons.
